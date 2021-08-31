@@ -26,7 +26,7 @@ submitForm = (event) => {
         likeCats: event.target.likeCats.checked,
         show:true
     })
-    console.log(this.state);
+    console.log(this.state); //js promises 
 
 }
 
